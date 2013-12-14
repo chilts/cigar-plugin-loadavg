@@ -1,0 +1,17 @@
+{
+  "name": "cigar-plugin-loadavg",
+  "description": "Load Average plugin for Cigar which returns the 1, 5 and 15 min load average of the system.",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "cigar",
+    "cigar-plugin",
+    "load",
+    "loadavg"
+  ],
+  "devDependencies": {
+    "tape": "~2.3.0"
+  }
+}
